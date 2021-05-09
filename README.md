@@ -45,9 +45,9 @@ de vendas e o todal das vendas de cada vendedor.
  
  [![Netlify Status](https://api.netlify.com/api/v1/badges/1fd8124c-97fd-4b53-abb9-f3ed74756794/deploy-status)](https://app.netlify.com/sites/igti-github-search/deploys)
 
-# Como executar o projeto :rocket:
+## Como executar o projeto :rocket:
 
-## Back end
+### Back end
 Pré-requisitos: Java 11
 
 ```bash
@@ -61,7 +61,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front end web
+### Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
