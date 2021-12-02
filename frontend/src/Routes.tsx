@@ -6,10 +6,10 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 const Routes = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={'/dsvendas-web'}>
       <NavBar />
       <Switch>
-        <Route path="/" exact>
+        <Route path="/" component={Home} exact>
           <Home />
         </Route>
         <Route path="/dashboard" exact>

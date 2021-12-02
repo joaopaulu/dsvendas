@@ -2,7 +2,7 @@
     "name": "frontend",
     "version": "0.1.0",
     "private": true,
-    "proxy": "http://localhost:8080",
+    "homepage": "http://191.252.202.66:8080/dsvendas-web/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.4",
         "@testing-library/react": "^11.1.0",
